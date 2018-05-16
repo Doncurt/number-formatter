@@ -1,0 +1,26 @@
+{
+  "name": "number-formatter",
+  "version": "1.0.0",
+  "description": "sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/number-formatter.git"
+  },
+  "author": "“Donovan <donovan.adams@students.makeschool.com> (https://www.makeschool.com/portfolio/Donovan-Adams)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Doncurt/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
